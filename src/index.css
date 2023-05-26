@@ -47,6 +47,10 @@ input {
 	padding: 8px;
 }
 
+input::placeholder {
+	color: #110;
+}
+
 input:focus {
 	border-bottom-color: #acf;
 	filter: drop-shadow(0 0 4px #acf);

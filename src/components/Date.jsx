@@ -30,6 +30,7 @@ export default function Datew() {
                 type="text"
                 id="text-box"
                 value={duration}
+                placeholder="eg. 5days"
                 onChange={( e ) => setDuration( e.target.value )}
                 onBlur={() => updateToDate()}
             />
