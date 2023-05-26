@@ -11,10 +11,23 @@ body {
 	background-color: #110;
 }
 .App {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 	font-family: sans-serif;
 	text-align: center;
+	height: 100%;
 }
 
+.how-to-use {
+	color: #dddd;
+	width: min(400px, 85vw);
+	margin-block: 24px;
+	border: 1px solid #afc;
+	border-radius: 8px;
+	padding: 8px;
+}
 .date-card {
 	width: min(340px, 85vw);
 	display: flex;
