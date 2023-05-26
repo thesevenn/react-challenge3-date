@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-challenge3-date/static/css/main.d85ee1f5.css",
+    "main.js": "/react-challenge3-date/static/js/main.ee75f6eb.js",
+    "index.html": "/react-challenge3-date/index.html",
+    "main.d85ee1f5.css.map": "/react-challenge3-date/static/css/main.d85ee1f5.css.map",
+    "main.ee75f6eb.js.map": "/react-challenge3-date/static/js/main.ee75f6eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d85ee1f5.css",
+    "static/js/main.ee75f6eb.js"
+  ]
+}
